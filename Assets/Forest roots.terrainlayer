@@ -6,16 +6,16 @@ TerrainLayer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Grass Fine
-  m_DiffuseTexture: {fileID: 2800000, guid: fb406f3bbfc363d44b6d6f8adda2bce1, type: 3}
-  m_NormalMapTexture: {fileID: 2800000, guid: 3b9cc235ee8c21348b85753d2ce963d9, type: 3}
-  m_MaskMapTexture: {fileID: 2800000, guid: 51a7248f6e5ea2d4abed228c9a58fff9, type: 3}
+  m_Name: Forest roots
+  m_DiffuseTexture: {fileID: 2800000, guid: b27c072a88660fd4ab79a62c059787e1, type: 3}
+  m_NormalMapTexture: {fileID: 2800000, guid: 8ef7b618f14c4d2449f999fd2f6d5897, type: 3}
+  m_MaskMapTexture: {fileID: 2800000, guid: 36033e2bfaf6b2449a93464320bc3304, type: 3}
   m_TileSize: {x: 2, y: 2}
   m_TileOffset: {x: 0, y: 0}
   m_Specular: {r: 0, g: 0, b: 0, a: 0}
   m_Metallic: 0
   m_Smoothness: 0
-  m_NormalScale: 1
+  m_NormalScale: 1.5
   m_DiffuseRemapMin: {x: 0, y: 0, z: 0, w: 0}
   m_DiffuseRemapMax: {x: 1, y: 1, z: 1, w: 1}
   m_MaskMapRemapMin: {x: 0, y: 0, z: 0, w: 0}
